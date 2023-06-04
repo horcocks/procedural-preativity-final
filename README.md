@@ -3,7 +3,7 @@ Dropping all pretense–there are many people enrolled in this event that are en
 
 That said, I would propose that engineering one’s way into an event far above their level of expertise for the purpose of actually completing the assignment is very on-brand for something called a “Hackathon”.
 
-With that in mind, I give you the results of my efforts: a good-faith attempt at a system of rapidly producing first drafts of full novels.
+With that in mind, I give you the results of my efforts: a good-faith attempt at a system of rapidly producing first drafts of full novels. It's messy, full of mistakes, and you have to build prompts yourself in a notepad window... but it actually works.
 
 # Introduction
 For myself and many other writers, the first draft is the most difficult and time-consuming piece of any long-form writing project.  Before the first draft, stories and characters exist in a haze of possibilities, and while you don’t know the exact words that will go onto each page, you know how it should feel.  
