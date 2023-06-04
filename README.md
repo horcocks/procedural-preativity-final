@@ -16,7 +16,7 @@ From this draft you can craft narrative, work on characterization, and navigate 
 
 The best way to write a good book is to write a bad draft, as quickly as possible.
 
-Because the first draft is often the gatekeeper of any finished work, my goal in this event was to design and demonstrate a system of rapid drafting.  I have a 50,000 word first draft of a novel, and Claude helped me write it in 3 days.  
+Because the first draft is often the gatekeeper of any finished work, my goal in this event was to design and demonstrate a system of rapid drafting.  I have a 50,000 word first draft of a novel, and Claude helped me write it in 7 days.  
 
 
 It’s awful, it’s filled with that flowery language that AI loves, and all of the characters speak like they’re from The Canterbury Tales… but it doesn’t matter.  My awful first draft will work exactly the same as any other, because the purpose of a first draft is merely to exist. I can do what I always do–put the draft in one window, and rewrite it into another.  This system has already saved me about 4 months.
